@@ -23,7 +23,7 @@ export TERM='xterm-256color'
 source $ZSH/oh-my-zsh.sh
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
-hash -d fu="$HOME/dev"
+hash -d fu="$HOME/Projects"
 
 alias reload='source ~/.zshrc; p10k reload'
 alias cls='clear'
